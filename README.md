@@ -1,5 +1,5 @@
 # GDSE- Object Oriented Programming (OOP) Module Assessment.
-*Chat application using Java Swing
+* Chat application using Java Swing
 
 ## Create Chat
 
